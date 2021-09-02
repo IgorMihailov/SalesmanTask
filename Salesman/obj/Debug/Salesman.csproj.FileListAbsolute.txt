@@ -1,0 +1,7 @@
+D:\MyProjects\Salesman\bin\Debug\Salesman.exe.config
+D:\MyProjects\Salesman\bin\Debug\Salesman.exe
+D:\MyProjects\Salesman\bin\Debug\Salesman.pdb
+D:\MyProjects\Salesman\obj\Debug\Salesman.csprojAssemblyReference.cache
+D:\MyProjects\Salesman\obj\Debug\Salesman.csproj.CoreCompileInputs.cache
+D:\MyProjects\Salesman\obj\Debug\Salesman.exe
+D:\MyProjects\Salesman\obj\Debug\Salesman.pdb
